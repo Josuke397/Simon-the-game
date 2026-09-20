@@ -1,0 +1,24 @@
+[gd_scene format=3 uid="uid://cg70vi1vjdyq8"]
+
+[ext_resource type="Script" uid="uid://dc4wappgter31" path="res://code/coin.gd" id="1_0t63x"]
+[ext_resource type="Texture2D" uid="uid://cftjku5k65sgf" path="res://sprites/jar-of-leeches-1.png" id="1_ycw7y"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_yf5fn"]
+radius = 14.56022
+
+[node name="coin" type="Node" unique_id=1668526315]
+
+[node name="Area2D" type="Area2D" parent="." unique_id=115385090]
+position = Vector2(-12, 13)
+script = ExtResource("1_0t63x")
+
+[node name="Sprite2D" type="Sprite2D" parent="Area2D" unique_id=43146824]
+position = Vector2(44.5, 5)
+scale = Vector2(0.90625, 0.9375)
+texture = ExtResource("1_ycw7y")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D" unique_id=1630188032]
+position = Vector2(45, 6)
+shape = SubResource("CircleShape2D_yf5fn")
+
+[connection signal="body_entered" from="Area2D" to="Area2D" method="_on_body_entered"]

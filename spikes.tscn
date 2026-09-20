@@ -1,0 +1,25 @@
+[gd_scene format=3 uid="uid://d3mbyw0i7i1kc"]
+
+[ext_resource type="Script" uid="uid://bbbwe3wmqg0sb" path="res://spikes.gd" id="1_nrdsm"]
+[ext_resource type="Texture2D" uid="uid://edon5iapc06" path="res://sprites/many-long-spikes-coming-out-of-ground-32x32px.png" id="2_8fhau"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_yf5fn"]
+size = Vector2(26, 35)
+
+[node name="Spikes" type="Node2D" unique_id=1118712680]
+script = ExtResource("1_nrdsm")
+
+[node name="Area2D" type="Area2D" parent="." unique_id=1766213585]
+position = Vector2(15, -24)
+metadata/_edit_group_ = true
+
+[node name="Sprite2D" type="Sprite2D" parent="Area2D" unique_id=1160720466]
+position = Vector2(5, 7)
+scale = Vector2(1.3125, 1.3125)
+texture = ExtResource("2_8fhau")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D" unique_id=1105329583]
+position = Vector2(5, 6.5)
+shape = SubResource("RectangleShape2D_yf5fn")
+
+[connection signal="body_entered" from="Area2D" to="." method="_on_area_2d_body_entered"]
