@@ -1,3 +1,58 @@
+Simon the game:
+
+A basic platformer game also my first ever game
+
+
+
+ <img width="327" height="159" alt="image" src="https://github.com/user-attachments/assets/2d89bc59-6e45-40df-90ad-fbb6d309f83d" />
+
+ Try it here:
+ https://josuke397.itch.io/simon-the-game
+
+ Search around to try and find your escape
+ 
+ Traverse the obstacles with caution
+ 
+ Can you find all the jars around the game?
+ 
+
+
+ 
+ Credits :
+
+ All background things, floors created using image by Miro Haverinen
+ 
+ Music composed by myself
+
+ Some smaller sprites made by myself
+ 
+ Character sprites by Mattz Art on itch.io
+ 
+ Skeleton sprites by MonoPixelArt on itch.io
+
+ 
+ 
+ Overall aesthetic inspired by things like Berserk, Dark souls, Fear and Hunger
+
+
+<img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/9a9257e2-c9f3-4437-a0bb-044463dc9c92" />
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ LOGS:
+ 
  Day 1: Currently there is an animated character sprite and collectable items as well as there being a significant improvement on the map
  (which has only been made using a single image). Next goal will be adding more places to go to.
 
