@@ -18,6 +18,7 @@
 **CONTROLS:**
 
   Arrow keys for movement
+  
   Space for jump
 
  
