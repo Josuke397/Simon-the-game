@@ -15,7 +15,10 @@ A basic platformer game also my first ever game
  
  Can you find all the jars around the game?
  
+CONTROLS:
 
+Arrow keys for movement
+Space for jump
 
  
  Credits :
