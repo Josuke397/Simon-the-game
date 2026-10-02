@@ -1,4 +1,4 @@
-Simon the game:
+**Simon the game:**
 
 A basic platformer game also my first ever game
 
@@ -6,7 +6,7 @@ A basic platformer game also my first ever game
 
  <img width="327" height="159" alt="image" src="https://github.com/user-attachments/assets/2d89bc59-6e45-40df-90ad-fbb6d309f83d" />
 
- Try it here:
+** Try it here:**
  https://josuke397.itch.io/simon-the-game
 
  Search around to try and find your escape
@@ -15,13 +15,13 @@ A basic platformer game also my first ever game
  
  Can you find all the jars around the game?
  
-CONTROLS:
+**CONTROLS:**
 
 Arrow keys for movement
 Space for jump
 
  
- Credits :
+** Credits :**
 
  All background things, floors created using image by Miro Haverinen
  
