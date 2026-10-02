@@ -1,37 +1,37 @@
 **Simon the game:**
 
-A basic platformer game also my first ever game
+  A basic platformer game also my first ever game
 
 
 
  <img width="327" height="159" alt="image" src="https://github.com/user-attachments/assets/2d89bc59-6e45-40df-90ad-fbb6d309f83d" />
 
-** Try it here:**
- https://josuke397.itch.io/simon-the-game
+**Try it here:**
+   https://josuke397.itch.io/simon-the-game
 
- Search around to try and find your escape
+   Search around to try and find your escape
  
- Traverse the obstacles with caution
- 
- Can you find all the jars around the game?
+   Traverse the obstacles with caution
+   
+   Can you find all the jars around the game?
  
 **CONTROLS:**
 
-Arrow keys for movement
-Space for jump
+  Arrow keys for movement
+  Space for jump
 
  
-** Credits :**
+**Credits :**
 
- All background things, floors created using image by Miro Haverinen
+   All background things, floors created using image by Miro Haverinen
  
- Music composed by myself
+   Music composed by myself
 
- Some smaller sprites made by myself
+   Some smaller sprites made by myself
+  
+   Character sprites by Mattz Art on itch.io
  
- Character sprites by Mattz Art on itch.io
- 
- Skeleton sprites by MonoPixelArt on itch.io
+   Skeleton sprites by MonoPixelArt on itch.io
 
  
  
